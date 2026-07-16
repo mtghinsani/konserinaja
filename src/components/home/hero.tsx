@@ -30,16 +30,6 @@ export function Hero() {
       <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-[#ec4899]/5 rounded-full blur-[150px] animate-pulse-glow" style={{ animationDelay: "3s" }} />
 
       <div className="relative z-10 mx-auto max-w-[1440px] px-4 sm:px-6 lg:px-8 text-center">
-        <motion.div
-          initial={{ opacity: 0, y: 30 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, ease: "easeOut" }}
-        >
-          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/5 border border-white/10 text-sm text-white/60 mb-8">
-            <span className="w-2 h-2 rounded-full bg-[#22c55e] animate-pulse" />
-            Discover Live Music Across Indonesia
-          </div>
-        </motion.div>
 
         <motion.h1
           initial={{ opacity: 0, y: 30 }}

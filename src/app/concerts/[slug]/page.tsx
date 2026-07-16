@@ -52,7 +52,7 @@ export default function ConcertDetailPage() {
           </div>
           <div className="absolute inset-0 bg-grid opacity-20" />
 
-          <div className="absolute bottom-0 left-0 right-0 p-6 md:p-10 lg:p-14">
+          <div className="absolute top-0 left-0 right-0 p-6 md:p-10 lg:p-14">
             <Container>
               <Link
                 href="/concerts"

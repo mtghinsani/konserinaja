@@ -62,5 +62,53 @@
     "image": "/images/artists/ndarboy-genk.jpg",
     "genre": "Pop Jawa",
     "upcomingConcerts": 10
+  },
+  {
+    "id": "bernadya",
+    "name": "Bernadya",
+    "slug": "bernadya",
+    "image": "/images/artists/bernadya.jpg",
+    "genre": "Pop",
+    "upcomingConcerts": 10
+  },
+  {
+    "id": "feast",
+    "name": "Feast",
+    "slug": "feast",
+    "image": "/images/artists/feast.jpg",
+    "genre": "Alternative Rock",
+    "upcomingConcerts": 10
+  },
+  {
+    "id": "hindia",
+    "name": "Hindia",
+    "slug": "hindia",
+    "image": "/images/artists/hindia.jpg",
+    "genre": "Pop",
+    "upcomingConcerts": 10
+  },
+  {
+    "id": "alkateri",
+    "name": "Alkateri",
+    "slug": "alkateri",
+    "image": "/images/artists/alkateri.jpg",
+    "genre": "Shoegaze",
+    "upcomingConcerts": 10
+  },
+  {
+    "id": "fstvlst",
+    "name": "FSTVLST",
+    "slug": "fstvlst",
+    "image": "/images/artists/fstvlst.jpg",
+    "genre": "Indie Rock",
+    "upcomingConcerts": 10
+  },
+  {
+    "id": "perunggu",
+    "name": "Perunggu",
+    "slug": "perunggu",
+    "image": "/images/artists/perunggu.jpg",
+    "genre": "Alternative Rock",
+    "upcomingConcerts": 10
   }
 ]

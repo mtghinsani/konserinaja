@@ -1,6 +1,8 @@
 "use client";
 
 import Link from "next/link";
+import { useState } from "react";
+import Image from "next/image";
 import { motion } from "framer-motion";
 import { MapPin, Calendar, Users, ArrowRight, Clock } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
@@ -35,14 +37,17 @@ export function FeaturedConcert() {
         <div className="absolute inset-0 bg-grid opacity-20" />
 
         <div className="relative grid lg:grid-cols-2 gap-0">
-          <div className="relative h-72 lg:h-full min-h-[400px] overflow-hidden">
-            <div className="absolute inset-0 bg-gradient-to-br from-[#1e1b4b] to-[#0f172a]" />
+          <div className="relative h-72 lg:h-full min-h-[400px] overflow-hidden bg-gradient-to-br from-[#1e1b4b] to-[#0f172a]">
+            <img
+              src={featured.poster || featured.banner}
+              alt={featured.name}
+              className="absolute inset-0 w-full h-full object-cover"
+              onError={(e) => {
+                const img = e.currentTarget;
+                img.style.display = "none";
+              }}
+            />
             <div className="absolute inset-0 bg-gradient-to-t from-[#09090b] via-transparent to-transparent" />
-            <div className="absolute inset-0 flex items-center justify-center">
-              <span className="text-8xl md:text-9xl font-bold text-white/[0.03] select-none">
-                {featured.name.charAt(0)}
-              </span>
-            </div>
 
             <div className="absolute top-6 left-6 flex gap-2">
               <Badge variant="purple">{featured.genre}</Badge>

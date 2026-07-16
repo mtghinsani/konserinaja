@@ -29,14 +29,17 @@ export function ConcertCard({ concert, featured, index = 0 }: ConcertCardProps) 
             featured ? "lg:grid lg:grid-cols-2 lg:gap-0" : ""
           )}
         >
-          <div className={cn("relative overflow-hidden", featured ? "h-64 lg:h-full" : "h-48")}>
-            <div className="absolute inset-0 bg-gradient-to-br from-[#a855f7]/20 via-transparent to-[#3b82f6]/10" />
+          <div className={cn("relative overflow-hidden bg-gradient-to-br from-[#1e1b4b] to-[#0f172a]", featured ? "h-64 lg:h-full" : "h-48")}>
+            <img
+              src={concert.poster}
+              alt={concert.name}
+              className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+              onError={(e) => {
+                const img = e.currentTarget;
+                img.style.display = "none";
+              }}
+            />
             <div className="absolute inset-0 bg-gradient-to-t from-[#09090b] via-transparent to-transparent" />
-            <div className="w-full h-full bg-gradient-to-br from-[#1e1b4b] to-[#0f172a] flex items-center justify-center">
-              <span className="text-6xl font-bold text-white/5 select-none">
-                {concert.name.charAt(0)}
-              </span>
-            </div>
 
             <div className="absolute top-3 left-3 flex gap-2">
               <Badge variant="purple">{concert.genre}</Badge>
