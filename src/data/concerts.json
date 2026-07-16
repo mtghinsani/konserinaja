@@ -1,0 +1,273 @@
+[
+  {
+    "id": "didi-kempot-jakarta-2026",
+    "slug": "didi-kempot-jakarta-2026",
+    "name": "Didi Kempot: The Godfather of Broken Heart",
+    "description": "Malam penuh kenangan bersama legenda campursari tanah air.",
+    "longDescription": "Saksikan konser spektakuler Didi Kempot, sang Godfather of Broken Heart, dalam tur konser terbesarnya di Jakarta. Malam ini akan dipenuhi dengan lagu-lagu legendaris yang menyentuh jiwa, ditemani ribuan fans setia dari seluruh Indonesia. Sebuah pengalaman musik yang tak boleh dilewatkan.",
+    "genre": "Campursari",
+    "venue": "Gelora Bung Karno",
+    "city": "Jakarta",
+    "date": "2026-08-17",
+    "time": "19:00 WIB",
+    "poster": "/images/concerts/didi-kempot-poster.jpg",
+    "banner": "/images/concerts/didi-kempot-banner.jpg",
+    "gallery": [
+      "/images/concerts/didi-kempot-1.jpg",
+      "/images/concerts/didi-kempot-2.jpg",
+      "/images/concerts/didi-kempot-3.jpg"
+    ],
+    "guestStars": ["NDX AKA", "Ndarboy Genk", "Woro Widowati"],
+    "promoter": "Rajawali Indonesia",
+    "officialWebsite": "https://rajawaliindonesia.com",
+    "instagram": "@rajawaliindonesia",
+    "ticketCategories": [
+      { "name": "Festival", "price": 150000, "description": "Berdiri di area festival", "available": true },
+      { "name": "VIP", "price": 350000, "description": "Duduk di area VIP dengan merchandise eksklusif", "available": true },
+      { "name": "VVIP", "price": 750000, "description": "Duduk di barisan terdepan, termasuk meet & greet", "available": false }
+    ],
+    "featured": true,
+    "status": "upcoming",
+    "mapsUrl": "https://maps.google.com/?q=Gelora+Bung+Karno",
+    "notes": "Pintu dibuka 2 jam sebelum acara dimulai. Dilarang membawa makanan dan minuman dari luar.",
+    "faq": [
+      { "question": "Apakah tiket bisa direfund?", "answer": "Tiket tidak dapat direfund, kecuali acara dibatalkan." },
+      { "question": "Apakah ada parkir?", "answer": "Tersedia area parkir yang luas di sekitar venue." }
+    ]
+  },
+  {
+    "id": "pamungkas-bali-2026",
+    "slug": "pamungkas-bali-2026",
+    "name": "Pamungkas: Flight Session",
+    "description": "Pamungkas membawakan album terbarunya dalam tur Flight Session di Bali.",
+    "longDescription": "Pamungkas kembali hadir dengan tur Flight Session, membawakan lagu-lagu dari album terbarunya serta hits klasik yang sudah melegenda. Dengan produksi panggung yang megah dan pengalaman audio-visual yang immersive, konser ini akan menjadi malam yang tak terlupakan di Pulau Dewata.",
+    "genre": "Indie Pop",
+    "venue": "Garuda Wisnu Kencana",
+    "city": "Bali",
+    "date": "2026-09-05",
+    "time": "20:00 WITA",
+    "poster": "/images/concerts/pamungkas-poster.jpg",
+    "banner": "/images/concerts/pamungkas-banner.jpg",
+    "gallery": [
+      "/images/concerts/pamungkas-1.jpg",
+      "/images/concerts/pamungkas-2.jpg"
+    ],
+    "guestStars": ["HIVI!", "Mocca"],
+    "promoter": "Sound Rhythm Entertainment",
+    "officialWebsite": "https://soundrhythm.com",
+    "instagram": "@soundrhythment",
+    "ticketCategories": [
+      { "name": "Early Bird", "price": 200000, "description": "Tiket early bird terbatas", "available": false },
+      { "name": "Presale", "price": 275000, "description": "Tiket presale", "available": true },
+      { "name": "VIP", "price": 450000, "description": "VIP pass with merchandise", "available": true }
+    ],
+    "featured": false,
+    "status": "upcoming",
+    "notes": "Acara indoor ber-AC. Tiket early bird sudah habis.",
+    "faq": [
+      { "question": "Apakah anak-anak boleh masuk?", "answer": "Anak di bawah 12 tahun harus didampingi orang tua." }
+    ]
+  },
+  {
+    "id": "pestora-2026",
+    "slug": "pestora-2026",
+    "name": "Pestora 2026",
+    "description": "Festival musik terbesar tahun ini dengan puluhan musisi nasional.",
+    "longDescription": "Pestora 2026 hadir dengan lineup terbaiknya! Festival musik tahunan yang menampilkan puluhan musisi dan band ternama Indonesia dari berbagai genre. Dari pop, rock, electronic, hingga dangdut — semua ada di Pestora. Tiga hari penuh musik, seni, dan budaya.",
+    "genre": "Festival",
+    "venue": "Istora Senayan",
+    "city": "Jakarta",
+    "date": "2026-10-15",
+    "endDate": "2026-10-17",
+    "time": "14:00 WIB",
+    "poster": "/images/concerts/pestora-poster.jpg",
+    "banner": "/images/concerts/pestora-banner.jpg",
+    "gallery": [],
+    "guestStars": ["Tipe-X", "Pamungkas", "NDX AKA", "Fourtwenty", "Bilal Indrajaya", "HIVI!"],
+    "promoter": "Pestora Production",
+    "officialWebsite": "https://pestora.id",
+    "instagram": "@pestora.id",
+    "ticketCategories": [
+      { "name": "1 Day Pass", "price": 180000, "description": "Akses 1 hari festival", "available": true },
+      { "name": "3 Day Pass", "price": 450000, "description": "Akses penuh 3 hari festival", "available": true },
+      { "name": "VIP 3 Day", "price": 850000, "description": "VIP akses penuh + merchandise + area khusus", "available": true }
+    ],
+    "featured": true,
+    "status": "upcoming",
+    "notes": "Festival outdoor. Bawa topi dan sunscreen.",
+    "faq": [
+      { "question": "Boleh bawa kamera?", "answer": "Kamera saku diperbolehkan, kamera profesional tidak." }
+    ]
+  },
+  {
+    "id": "tipe-x-surabaya-2026",
+    "slug": "tipe-x-surabaya-2026",
+    "name": "Tipe-X: Ska Nostalgia Tour",
+    "description": "Malam ska bersama legenda ska Indonesia.",
+    "longDescription": "Tipe-X kembali menggelar konser tunggal di Surabaya! Bersiaplah bernyanyi dan berska ria bersama band ska legendaris Indonesia. Dengan lagu-lagu hits yang tidak pernah lekang oleh waktu, konser ini akan membawamu bernostalgia.",
+    "genre": "Ska",
+    "venue": "Balai Pemuda",
+    "city": "Surabaya",
+    "date": "2026-07-28",
+    "time": "19:30 WIB",
+    "poster": "/images/concerts/tipe-x-poster.jpg",
+    "banner": "/images/concerts/tipe-x-banner.jpg",
+    "gallery": [],
+    "guestStars": ["Shaggydog", "The Kancut"],
+    "promoter": "Mosi Entertainment",
+    "instagram": "@mosientertainment",
+    "ticketCategories": [
+      { "name": "Regular", "price": 120000, "description": "Tiket masuk reguler", "available": true },
+      { "name": "VIP", "price": 250000, "description": "VIP pass + kaos eksklusif", "available": true }
+    ],
+    "featured": false,
+    "status": "upcoming"
+  },
+  {
+    "id": "bilal-yogyakarta-2026",
+    "slug": "bilal-yogyakarta-2026",
+    "name": "Bilal Indrajaya: Sesuatu Session",
+    "description": "Malam intim bersama Bilal Indrajaya di Yogyakarta.",
+    "longDescription": "Bilal Indrajaya mengajak kamu untuk hadir dalam sesi akustik yang intim dan penuh perasaan di Yogyakarta. Dengan sentuhan musik indie rock yang khas, Bilal akan membawakan lagu-lagu dari album terbaru dan favorit penggemar.",
+    "genre": "Indie Rock",
+    "venue": "Jogja National Museum",
+    "city": "Yogyakarta",
+    "date": "2026-08-22",
+    "time": "20:00 WIB",
+    "poster": "/images/concerts/bilal-poster.jpg",
+    "banner": "/images/concerts/bilal-banner.jpg",
+    "gallery": [],
+    "guestStars": ["Fiersa Besari"],
+    "promoter": "Koloni Musik",
+    "instagram": "@kolonimusik",
+    "ticketCategories": [
+      { "name": "Presale", "price": 150000, "description": "Presale ticket", "available": true },
+      { "name": "OTS", "price": 200000, "description": "On the spot ticket", "available": true }
+    ],
+    "featured": false,
+    "status": "upcoming"
+  },
+  {
+    "id": "ndx-aka-bandung-2026",
+    "slug": "ndx-aka-bandung-2026",
+    "name": "NDX AKA: Koplo Party",
+    "description": "Pesta koplo terbesar tahun ini bareng NDX AKA.",
+    "longDescription": "NDX AKA siap mengguncang Bandung dengan pesta koplo terbesar! Bersiaplah untuk goyang dan sing along lagu-lagu hits NDX AKA yang viral di seluruh Indonesia. Energi panggung NDX AKA selalu membakar semangat.",
+    "genre": "Dangdut Koplo",
+    "venue": "Sabuga",
+    "city": "Bandung",
+    "date": "2026-09-12",
+    "time": "19:00 WIB",
+    "poster": "/images/concerts/ndx-aka-poster.jpg",
+    "banner": "/images/concerts/ndx-aka-banner.jpg",
+    "gallery": [],
+    "guestStars": ["Woro Widowati", "Syahiba Saufa"],
+    "promoter": "Dangdut Pro Indonesia",
+    "instagram": "@dangdutpro",
+    "ticketCategories": [
+      { "name": "Festival", "price": 100000, "description": "Area festival standar", "available": true },
+      { "name": "VIP", "price": 200000, "description": "Akses VIP + souvenir", "available": true }
+    ],
+    "featured": false,
+    "status": "upcoming"
+  },
+  {
+    "id": "hivi-bali-2026",
+    "slug": "hivi-bali-2026",
+    "name": "HIVI!: Cerita Kemarin Akustik",
+    "description": "Acoustic night with HIVI! di tepi pantai Bali.",
+    "longDescription": "Nikmati malam akustik yang romantis bersama HIVI! di venue tepi pantai yang eksotis. Grup vokal pop terbaik Indonesia ini akan membawakan lagu-lagu hits mereka dalam format akustik yang intim dan hangat.",
+    "genre": "Pop",
+    "venue": "Jimbaran Beach",
+    "city": "Bali",
+    "date": "2026-10-01",
+    "time": "18:30 WITA",
+    "poster": "/images/concerts/hivi-poster.jpg",
+    "banner": "/images/concerts/hivi-banner.jpg",
+    "gallery": [],
+    "guestStars": ["RAN"],
+    "promoter": "Sunset Music",
+    "instagram": "@sunsetmusic",
+    "ticketCategories": [
+      { "name": "Regular", "price": 175000, "description": "Tiket masuk + welcome drink", "available": true },
+      { "name": "VIP", "price": 325000, "description": "VIP area + dinner + merchandise", "available": true }
+    ],
+    "featured": false,
+    "status": "upcoming"
+  },
+  {
+    "id": "fourtwenty-medan-2026",
+    "slug": "fourtwenty-medan-2026",
+    "name": "Fourtwenty: Reggae Sunset Vibes",
+    "description": "Reggae party sunset di Medan.",
+    "longDescription": "Fourtwenty kembali hadir untuk menghibur para skunk lovers di Medan! Dengan nuansa reggae yang santai dan lirik yang penuh makna, konser ini akan menjadi terapi jiwa di akhir pekan.",
+    "genre": "Reggae",
+    "venue": "Taman Ahmad Yani",
+    "city": "Medan",
+    "date": "2026-11-20",
+    "time": "15:00 WIB",
+    "poster": "/images/concerts/fourtwenty-poster.jpg",
+    "banner": "/images/concerts/fourtwenty-banner.jpg",
+    "gallery": [],
+    "guestStars": ["Momonon", "Souljah"],
+    "promoter": "Reggae Nation",
+    "instagram": "@reggaenation",
+    "ticketCategories": [
+      { "name": "Early Bird", "price": 100000, "description": "Early bird limited", "available": false },
+      { "name": "Presale", "price": 150000, "description": "Presale ticket", "available": true }
+    ],
+    "featured": false,
+    "status": "upcoming"
+  },
+  {
+    "id": "ndarboy-solo-2026",
+    "slug": "ndarboy-solo-2026",
+    "name": "Ndarboy Genk: Mendesah Rindu",
+    "description": "Malam pop Jawa bareng Ndarboy Genk di kota Solo.",
+    "longDescription": "Ndarboy Genk, fenomena pop Jawa yang sedang naik daun, siap menghibur penggemar di Solo. Dengan lagu-lagu yang relateable dan easy listening, konser ini dijamin bikin kamu bernostalgia.",
+    "genre": "Pop Jawa",
+    "venue": "Benteng Vastenburg",
+    "city": "Solo",
+    "date": "2026-12-05",
+    "time": "19:00 WIB",
+    "poster": "/images/concerts/ndarboy-poster.jpg",
+    "banner": "/images/concerts/ndarboy-banner.jpg",
+    "gallery": [],
+    "guestStars": ["Didi Kempot"],
+    "promoter": "Jawa Musik Production",
+    "instagram": "@jawamusik",
+    "ticketCategories": [
+      { "name": "Festival", "price": 120000, "description": "Festival area", "available": true },
+      { "name": "VIP", "price": 250000, "description": "VIP seating + merchandise", "available": true }
+    ],
+    "featured": false,
+    "status": "upcoming"
+  },
+  {
+    "id": "synchronize-fest-2026",
+    "slug": "synchronize-fest-2026",
+    "name": "Synchronize Fest 2026",
+    "description": "Festival musik multi-genre yang legendaris.",
+    "longDescription": "Synchronize Fest kembali digelar dengan lineup yang lebih spektakuler. Festival multi-genre yang sudah menjadi ikon industri musik Indonesia ini menampilkan puluhan musisi dari berbagai genre, talkshow inspiratif, dan pengalaman festival yang tak terlupakan.",
+    "genre": "Festival",
+    "venue": "GBK Sports Complex",
+    "city": "Jakarta",
+    "date": "2026-11-05",
+    "endDate": "2026-11-07",
+    "time": "12:00 WIB",
+    "poster": "/images/concerts/synchronize-poster.jpg",
+    "banner": "/images/concerts/synchronize-banner.jpg",
+    "gallery": [],
+    "guestStars": ["Tipe-X", "Pamungkas", "Fourtwenty", "Bilal Indrajaya", "HIVI!", "NDX AKA"],
+    "promoter": "Synchronize Fest",
+    "officialWebsite": "https://synchronizefest.com",
+    "instagram": "@synchronizefest",
+    "ticketCategories": [
+      { "name": "1 Day Pass", "price": 200000, "description": "Akses 1 hari", "available": true },
+      { "name": "3 Day Pass", "price": 500000, "description": "Akses penuh 3 hari", "available": true },
+      { "name": "VIP", "price": 1000000, "description": "VIP + backstage access + merchandise bundle", "available": false }
+    ],
+    "featured": true,
+    "status": "upcoming"
+  }
+]

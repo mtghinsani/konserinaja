@@ -1,0 +1,66 @@
+[
+  {
+    "id": "jkt",
+    "name": "Jakarta",
+    "slug": "jakarta",
+    "province": "DKI Jakarta",
+    "image": "/images/cities/jakarta.jpg",
+    "concertCount": 24
+  },
+  {
+    "id": "bdo",
+    "name": "Bandung",
+    "slug": "bandung",
+    "province": "Jawa Barat",
+    "image": "/images/cities/bandung.jpg",
+    "concertCount": 15
+  },
+  {
+    "id": "sby",
+    "name": "Surabaya",
+    "slug": "surabaya",
+    "province": "Jawa Timur",
+    "image": "/images/cities/surabaya.jpg",
+    "concertCount": 12
+  },
+  {
+    "id": "jog",
+    "name": "Yogyakarta",
+    "slug": "yogyakarta",
+    "province": "DI Yogyakarta",
+    "image": "/images/cities/yogyakarta.jpg",
+    "concertCount": 10
+  },
+  {
+    "id": "bali",
+    "name": "Bali",
+    "slug": "bali",
+    "province": "Bali",
+    "image": "/images/cities/bali.jpg",
+    "concertCount": 18
+  },
+  {
+    "id": "mdn",
+    "name": "Medan",
+    "slug": "medan",
+    "province": "Sumatera Utara",
+    "image": "/images/cities/medan.jpg",
+    "concertCount": 8
+  },
+  {
+    "id": "mks",
+    "name": "Makassar",
+    "slug": "makassar",
+    "province": "Sulawesi Selatan",
+    "image": "/images/cities/makassar.jpg",
+    "concertCount": 6
+  },
+  {
+    "id": "slo",
+    "name": "Solo",
+    "slug": "solo",
+    "province": "Jawa Tengah",
+    "image": "/images/cities/solo.jpg",
+    "concertCount": 7
+  }
+]
