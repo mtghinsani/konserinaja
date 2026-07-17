@@ -42,14 +42,14 @@ export default function ConcertDetailPage() {
   return (
     <>
       <div className="relative pt-20 md:pt-24">
-        <div className="relative h-56 md:h-72 lg:h-96 overflow-hidden">
-          <div className="absolute inset-0 bg-gradient-to-br from-[#1e1b4b] via-[#0f172a] to-[#050505]" />
+        <div className="relative h-56 md:h-72 lg:h-96 overflow-hidden bg-gradient-to-br from-[#1e1b4b] via-[#0f172a] to-[#050505]">
+          <img
+            src={concert.banner || concert.poster}
+            alt={concert.name}
+            className="absolute inset-0 w-full h-full object-cover"
+            onError={(e) => { e.currentTarget.style.display = "none" }}
+          />
           <div className="absolute inset-0 bg-gradient-to-t from-[#050505] via-transparent to-transparent" />
-          <div className="absolute inset-0 flex items-center justify-center">
-            <span className="text-[200px] md:text-[300px] font-bold text-white/[0.03] select-none">
-              {concert.name.charAt(0)}
-            </span>
-          </div>
           <div className="absolute inset-0 bg-grid opacity-20" />
 
           <div className="absolute top-0 left-0 right-0 p-6 md:p-10 lg:p-14">
@@ -147,13 +147,18 @@ export default function ConcertDetailPage() {
               {concert.gallery.length > 0 && (
                 <div className="mt-8">
                   <h2 className="text-lg font-semibold text-white mb-4">Gallery</h2>
-                  <div className="grid grid-cols-3 gap-3">
+                  <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
                     {concert.gallery.map((img, i) => (
                       <div
                         key={i}
-                        className="aspect-video rounded-xl bg-gradient-to-br from-[#1e1b4b] to-[#0f172a] border border-white/5 flex items-center justify-center overflow-hidden"
+                        className="aspect-video rounded-xl bg-gradient-to-br from-[#1e1b4b] to-[#0f172a] border border-white/5 overflow-hidden"
                       >
-                        <span className="text-white/10 text-sm">Photo {i + 1}</span>
+                        <img
+                          src={img}
+                          alt={`${concert.name} photo ${i + 1}`}
+                          className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+                          onError={(e) => { e.currentTarget.style.display = "none" }}
+                        />
                       </div>
                     ))}
                   </div>

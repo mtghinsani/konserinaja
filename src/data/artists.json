@@ -1,27 +1,11 @@
 [
   {
-    "id": "didi-kempot",
-    "name": "Didi Kempot",
-    "slug": "didi-kempot",
-    "image": "/images/artists/didi-kempot.jpg",
-    "genre": "Campursari",
-    "upcomingConcerts": 5
-  },
-  {
     "id": "pamungkas",
     "name": "Pamungkas",
     "slug": "pamungkas",
     "image": "/images/artists/pamungkas.jpg",
     "genre": "Indie Pop",
     "upcomingConcerts": 8
-  },
-  {
-    "id": "ndx-aka",
-    "name": "NDX AKA",
-    "slug": "ndx-aka",
-    "image": "/images/artists/ndx-aka.jpg",
-    "genre": "Dangdut Koplo",
-    "upcomingConcerts": 12
   },
   {
     "id": "hivi",
@@ -32,36 +16,12 @@
     "upcomingConcerts": 6
   },
   {
-    "id": "fekum",
-    "name": "Fourtwenty",
-    "slug": "fourtwenty",
-    "image": "/images/artists/fourtwenty.jpg",
-    "genre": "Reggae",
-    "upcomingConcerts": 4
-  },
-  {
     "id": "bilal",
     "name": "Bilal Indrajaya",
     "slug": "bilal-indrajaya",
     "image": "/images/artists/bilal-indrajaya.jpg",
     "genre": "Indie Rock",
     "upcomingConcerts": 7
-  },
-  {
-    "id": "tipe-x",
-    "name": "Tipe-X",
-    "slug": "tipe-x",
-    "image": "/images/artists/tipe-x.jpg",
-    "genre": "Ska",
-    "upcomingConcerts": 9
-  },
-  {
-    "id": "ndarboy",
-    "name": "Ndarboy Genk",
-    "slug": "ndarboy-genk",
-    "image": "/images/artists/ndarboy-genk.jpg",
-    "genre": "Pop Jawa",
-    "upcomingConcerts": 10
   },
   {
     "id": "bernadya",
@@ -110,5 +70,93 @@
     "image": "/images/artists/perunggu.jpg",
     "genre": "Alternative Rock",
     "upcomingConcerts": 10
+  },
+  {
+    "id": "the-adams",
+    "name": "The Adams",
+    "slug": "the-adams",
+    "image": "/images/artists/the-adams.jpg",
+    "genre": "Indie Rock",
+    "upcomingConcerts": 6
+  },
+  {
+    "id": "barasuara",
+    "name": "Barasuara",
+    "slug": "barasuara",
+    "image": "/images/artists/barasuara.jpg",
+    "genre": "Alternative Rock",
+    "upcomingConcerts": 8
+  },
+  {
+    "id": "lomba-sihir",
+    "name": "Lomba Sihir",
+    "slug": "lomba-sihir",
+    "image": "/images/artists/lomba-sihir.jpg",
+    "genre": "Alternative Pop",
+    "upcomingConcerts": 7
+  },
+  {
+    "id": "reality-club",
+    "name": "Reality Club",
+    "slug": "reality-club",
+    "image": "/images/artists/reality-club.jpg",
+    "genre": "Indie Rock",
+    "upcomingConcerts": 9
+  },
+  {
+    "id": "nadin-amizah",
+    "name": "Nadin Amizah",
+    "slug": "nadin-amizah",
+    "image": "/images/artists/nadin-amizah.jpg",
+    "genre": "Folk Pop",
+    "upcomingConcerts": 10
+  },
+  {
+    "id": "kelompok-penerbang-roket",
+    "name": "Kelompok Penerbang Roket",
+    "slug": "kelompok-penerbang-roket",
+    "image": "/images/artists/kelompok-penerbang-roket.jpg",
+    "genre": "Psychedelic Rock",
+    "upcomingConcerts": 5
+  },
+  {
+    "id": "biru-baru",
+    "name": "Biru Baru",
+    "slug": "biru-baru",
+    "image": "/images/artists/biru-baru.jpg",
+    "genre": "Alternative Pop",
+    "upcomingConcerts": 4
+  },
+  {
+    "id": "tulus",
+    "name": "Tulus",
+    "slug": "tulus",
+    "image": "/images/artists/tulus.jpg",
+    "genre": "Pop",
+    "upcomingConcerts": 11
+  },
+  {
+    "id": "sheila-on-7",
+    "name": "Sheila on 7",
+    "slug": "sheila-on-7",
+    "image": "/images/artists/sheila-on-7.jpg",
+    "genre": "Pop Rock",
+    "upcomingConcerts": 6
+  },
+  {
+    "id": "idgitaf",
+    "name": "Idgitaf",
+    "slug": "idgitaf",
+    "image": "/images/artists/idgitaf.jpg",
+    "genre": "Indie Pop",
+    "upcomingConcerts": 8
+  },
+  {
+    "id": "for-revenge",
+    "name": "For Revenge",
+    "slug": "for-revenge",
+    "image": "/images/artists/for-revenge.jpg",
+    "genre": "Alternative Rock",
+    "upcomingConcerts": 7
   }
 ]

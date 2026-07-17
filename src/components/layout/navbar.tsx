@@ -78,14 +78,6 @@ export function Navbar() {
                 <Search className="w-5 h-5" />
               </button>
 
-              <div className="hidden md:block">
-                <Link href="/concerts">
-                  <Button variant="primary" size="sm">
-                    Browse Events
-                  </Button>
-                </Link>
-              </div>
-
               <button
                 onClick={() => setMobileOpen(!mobileOpen)}
                 className="md:hidden p-2 text-white/60 hover:text-white transition-colors rounded-lg hover:bg-white/5"
@@ -151,17 +143,7 @@ export function Navbar() {
                   </Link>
                 </motion.div>
               ))}
-              <motion.div
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: 0.4 }}
-              >
-                <Link href="/concerts">
-                  <Button variant="primary" size="lg">
-                    Browse Events
-                  </Button>
-                </Link>
-              </motion.div>
+
             </div>
           </motion.div>
         )}
